@@ -1,0 +1,98 @@
+commit ddc2b6083dfa1973becb9ec45a0996e2ee7c3cba
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Sun Nov 5 21:34:24 2023 -0500
+
+    Agregando 2 parrafos
+
+commit 8e086f06822c0877adb4e8d21ad088cbe1fbfe03
+Merge: 2789304 643902a
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Sun Nov 5 21:23:58 2023 -0500
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit 2789304338b433c532717312f34dd73730fd4e94
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Sun Nov 5 21:03:17 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 643902aea87a87f8c919401889d6baddad71fb55
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Sun Nov 5 21:03:17 2023 -0500
+
+    Agregando las estaciones del año
+
+commit d8203daa121c59cc227fd916f246a2ab8a08932c
+Merge: 8fe283e 2c3f4e7
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 19:27:59 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 2c3f4e74c2e723d4426607e7b634efa5c6fb7c49
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 19:19:40 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 8fe283e568c0b67b601d9018c05beafe1ae745a0
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 19:16:01 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 197f132d651a545287c90bf5c128920b00d37a41
+Merge: 789c965 212ebcf
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 19:04:09 2023 -0500
+
+    Merge branch 'js'
+
+commit 212ebcf2264b3ef32f2713f620f394027b339f43
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 18:41:43 2023 -0500
+
+    Creando index.js
+
+commit 789c9653df7cfdb5d7e091f51c8d73f57c84bb7b
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 18:35:34 2023 -0500
+
+    Creando style.css
+
+commit f1c8ed6f7f59a8fc7106cda732b8330d34ce9f14
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 18:29:44 2023 -0500
+
+    Creando Archivo index.html
+
+commit 6f8e426277a1cf61f69c6398d201839d9e7ab11d
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 17:59:13 2023 -0500
+
+    Ignorando archivos .exe
+
+commit 01a21dee5c24a1886e48230a89dea540bff145b0
+Author: Johnny09887 <140984762+Johnny09887@users.noreply.github.com>
+Date:   Fri Nov 3 16:46:10 2023 -0500
+
+    Create LICENSE del repositorio
+
+commit 903fabe038bc1829dff6e3e39ff8795d4a412a36
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 16:35:30 2023 -0500
+
+    Agregando más contenido al README
+
+commit 22ed84ee12c618feddd53f3840b82b9a3b8f5ba5
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 16:14:37 2023 -0500
+
+    Agragando contenido incial al README
+
+commit 8e879c7e596199f4b24cb07bd3d234e9c06c16d0
+Author: johnny09887 <andercando_2000@hotmail.com>
+Date:   Fri Nov 3 13:26:48 2023 -0500
+
+    Primer commit 😊
